@@ -19,3 +19,9 @@ The same table in portuguese:
 And [this video](https://www.youtube.com/watch?v=GkwfqYYZ-VA) explain this table:
 
 ![tabela-verdade.png](tabela-verdade.png)
+
+Veja a execução:
+
+[https://youtu.be/GkwfqYYZ-VA](https://youtu.be/GkwfqYYZ-VA)
+
+[https://youtu.be/eoFyGKMtq78](https://youtu.be/eoFyGKMtq78)
