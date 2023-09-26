@@ -20,7 +20,7 @@ And [this video](https://www.youtube.com/watch?v=GkwfqYYZ-VA) explain this table
 
 ![tabela-verdade.png](tabela-verdade.png)
 
-Veja a execução:
+Videos showing the execution:
 
 [https://youtu.be/GkwfqYYZ-VA](https://youtu.be/GkwfqYYZ-VA)
 
